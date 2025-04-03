@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-router-dom";
-import Home from './Components/Home'
-import Login from './Components/Login';
+import Home from "./Components/Home";
+import Login from "./Components/Login";
 import Signup from "./Components/SignUp";
 
 function App() {
